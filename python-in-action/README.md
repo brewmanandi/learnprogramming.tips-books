@@ -1,13 +1,12 @@
-
 # Python in Action: A Project-Based Introduction to Python Programming
 
 ### **Build Real-World Applications Step by Step**
 
-![Python in Action](https://your-image-link-here.com) <!-- Replace with actual image URL of the book -->
+![Python in Action](https://www.learnprogramming.tips/langs/python/book/mockup.png) <!-- Replace with actual image URL of the book -->
 
 ---
 
-**Author**: [Your Name]
+**Author**: Andreas Braumann, Msc
 
 ---
 
@@ -18,6 +17,7 @@ Welcome to the official GitHub repository for **Python in Action**, a project-ba
 ### **About the Book**
 
 **Python in Action** is the perfect book for beginners eager to dive into the world of Python programming. Through a series of practical projects, you’ll gain a solid understanding of Python's core concepts, including:
+
 - Functions, control flow, and data structures.
 - Object-Oriented Programming (OOP).
 - File handling, error handling, and regular expressions.
@@ -43,12 +43,14 @@ In this repository, you'll find:
 
 1. **Clone the Repository**:
    Clone this repository to your local machine:
+
    ```bash
    git clone https://github.com/your-github-username/python-in-action.git
    ```
 
 2. **Install Dependencies**:
    Some projects require additional Python libraries. Make sure you have **pip** installed and use the following command to install required packages:
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -58,11 +60,12 @@ In this repository, you'll find:
 
 ---
 
-### **Sales Description**
+### **Description**
 
 Unlock your potential as a Python developer by learning the language through real-world, hands-on projects! Whether you're a complete beginner or transitioning from another language, **Python in Action** provides a structured, engaging approach to learning Python.
 
 **Why this book?**
+
 - **Interactive Learning**: Learn by building meaningful projects, not just through theory.
 - **Step-by-Step Guidance**: Each chapter walks you through the process of creating fully functional Python applications.
 - **Real-World Applications**: Build practical applications that you can actually use and extend beyond the book.
@@ -73,7 +76,7 @@ Unlock your potential as a Python developer by learning the language through rea
 
 Dive into the world of Python and start building your own applications by purchasing **Python in Action** on Amazon!
 
-[Buy Now on Amazon KDP](https://www.amazon.com/your-kdp-link-here) <!-- Replace with actual KDP link -->
+[Buy Now on Amazon KDP](https://amzn.to/4eQ1siq)
 
 ---
 
@@ -81,8 +84,8 @@ Dive into the world of Python and start building your own applications by purcha
 
 Follow me for updates, coding tips, and more Python-related content!
 
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
+- **Twitter**: [@BraumannAndreas](https://x.com/BraumannAndreas)
+- **LinkedIn**: [Andreas Braumann](https://www.linkedin.com/in/andreas-braumann/)
 
 ---
 
