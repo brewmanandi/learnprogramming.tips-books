@@ -17,6 +17,90 @@
       "request": "launch",
       "program": "${workspaceFolder}/python-in-action/chapter_2/app.py",
       "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_3",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_3/app.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_4",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_4/app.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_5",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_5/student_grade_tracker.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_6",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_6/contact_book.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_7",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_7/bank_account_system.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_8",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_8/to_do_list_manager.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_9",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_9/weather_app.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_10",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_10/backup_utility.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_11",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_11/text_pattern_finder.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_12",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_12/weather_app_tkinter.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_13",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_13/quiz_game.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: chapter_14",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python-in-action/chapter_14/appendix_a_code.py",
+      "console": "integratedTerminal"
     }
   ]
 }
